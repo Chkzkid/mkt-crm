@@ -1,0 +1,12 @@
+{
+  "leads": [],
+  "proposals": [],
+  "settings": {
+    "business_name": "Mi Negocio Pro",
+    "primary_color": "#2563eb",
+    "secondary_color": "#1e293b",
+    "currency": "USD",
+    "contact_email": "ventas@negocio.com",
+    "default_language": "es"
+  }
+}
